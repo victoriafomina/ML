@@ -1,0 +1,9 @@
+Accuracy for algorithm:
+
+Algorithm KNN: 0.9154471544715447
+Algorithm Built-in KNN: 0.9300813008130081
+Algorithm Decision Tree: 0.5463414634146342
+Algorithm Built-in Decision Tree: 0.8926829268292683
+Algorithm Logistic Regression: 0.8406504065040651
+Algorithm SVC: 0.9219512195121952
+Algorithm Naive Bayes: 0.8292682926829268
